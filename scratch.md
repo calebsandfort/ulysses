@@ -1,0 +1,1 @@
+C:\Users\caleb\source\repos\trading-dashboards\chart-images\execution_clean.png
